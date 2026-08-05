@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-Vision Assist is a comprehensive Flutter application designed to assist visually impaired individuals in navigating their environment and understanding the world around them. The app leverages modern mobile device capabilities like camera, GPS, and AI to provide a suite of accessibility tools that help users perceive and interact with their surroundings.
+Vision Assist is an AI-powered Flutter application developed to help visually impaired users perform everyday tasks independently. It combines computer vision, OCR, speech technologies, navigation, and AI assistance to identify objects, read printed text, detect colors, scan QR codes, and provide voice-guided support using a smartphone.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Flutter Version](https://img.shields.io/badge/Flutter-%5E3.7.2-blue.svg)](https://flutter.dev/)
@@ -11,7 +11,7 @@ Vision Assist is a comprehensive Flutter application designed to assist visually
 ## 📱 Key Features
 
 ### 🔍 Object Detection
-Helps identify objects in the user's surroundings using the device camera. The app provides audio feedback about detected objects and their positions.
+Object Detection allows users to identify nearby objects through the device camera. The application detects multiple objects in real time and provides voice feedback, helping visually impaired users better understand their surroundings.
 
 
 **Technical Implementation:**
